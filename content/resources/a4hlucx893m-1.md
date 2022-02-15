@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/42c4ed9fe670c948824c9aa3b5b9f89b_a4hLUCX893M.pdf
+file: /media/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/42c4ed9fe670c948824c9aa3b5b9f89b_a4hLUCX893M.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 42c4ed9f-e670-c948-824c-9aa3b5b9f89b

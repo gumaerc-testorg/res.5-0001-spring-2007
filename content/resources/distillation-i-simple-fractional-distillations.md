@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Distillation I: Simple & Fractional Distillations '
 uid: 85b9f148-819e-5c0b-431f-d23a1532716f
 video_files:
   archive_url: http://www.archive.org/download/MITRES.5.0001/DistillationI_MitDigitalLabTechniquesManual.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/01d8fd8c3c1355bd84a1cceaeb792635_GtuMlWMajtw.vtt
+  video_captions_file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/01d8fd8c3c1355bd84a1cceaeb792635_GtuMlWMajtw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/GtuMlWMajtw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/e5c70455310f147ba02fdd948461be64_GtuMlWMajtw.pdf
+  video_transcript_file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/e5c70455310f147ba02fdd948461be64_GtuMlWMajtw.pdf
 video_metadata:
   youtube_id: GtuMlWMajtw
 ---

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/a4fe9fc52a1b9f565e3ae636646b35d7_tlc_basics.jpg
+file: /media/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a4fe9fc52a1b9f565e3ae636646b35d7_tlc_basics.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: tlc_basics.jpg
 uid: a4fe9fc5-2a1b-9f56-5e3a-e636646b35d7

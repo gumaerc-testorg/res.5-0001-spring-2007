@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Reaction Work-Up II '
 uid: 3081e40f-fae1-576d-4092-ca4b0efce57e
 video_files:
   archive_url: http://www.archive.org/download/MITRES.5.0001/ReactionWork-upIi_MitDigitalLabTechniquesManual.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/9df23bc142b85e63973a99b5c2fd36e0_3DQj4dibr78.vtt
+  video_captions_file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/9df23bc142b85e63973a99b5c2fd36e0_3DQj4dibr78.vtt
   video_thumbnail_file: https://img.youtube.com/vi/3DQj4dibr78/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/ed22948fc6017498b53ad9c9e62af31d_3DQj4dibr78.pdf
+  video_transcript_file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/ed22948fc6017498b53ad9c9e62af31d_3DQj4dibr78.pdf
 video_metadata:
   youtube_id: 3DQj4dibr78
 ---

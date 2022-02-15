@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-5-0001-digital-lab-techniques-manual-spring-2007/9bee285c20095cf8b105f69d36a265de_a4hLUCX893M.vtt
+file: /media/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/9bee285c20095cf8b105f69d36a265de_a4hLUCX893M.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 9bee285c-2009-5cf8-b105-f69d36a265de

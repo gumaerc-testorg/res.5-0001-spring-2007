@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 title: Videos
 uid: eb9c8f89-7d57-3fc9-3561-d85659b33e34
 ---
