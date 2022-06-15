@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** Throughout your laboratory experiences, you will frequently need to assess the purity or identity of a crystalline solid. Both of these goals can be accomplished by determining a compound's melting point.
+
+
+

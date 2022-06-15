@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** Learn how to separate or purify liquid mixtures that boil below 150°C with or without a fractionating column.
+
+
+

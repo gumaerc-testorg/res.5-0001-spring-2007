@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** Discover a few of the more complicated skills related to thin layer chromatography - cutting glass TLC plates, flame-pulling spotters, and using TLC stains to visualize spots.
+
+
+

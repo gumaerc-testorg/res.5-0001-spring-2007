@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** The most accurate method of transferring liquids less than 1 mL in volume involves the use of an automatic pipette. Learn the proper techniques for ensuring accuracy and precision in your laboratory work.
+
+
+

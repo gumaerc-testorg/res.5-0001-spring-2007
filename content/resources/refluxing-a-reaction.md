@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** Most organic reactions occur slowly at room temperature and require heat to allow them to go to completion in a reasonable time frame. Running a reaction under reflux allows you to heat a reaction without losing solvent due to evaporation and with causing an explosion.
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** It takes considerable practice to master the art of "running a column". This video will get you started, with tips on picking appropriate conditions, packing and running a column, monitoring separation, and even making a micro-column from a pipet.
+
+
+

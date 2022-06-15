@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** From solid to gas, and then straight back to solid. This purification technique is both beautiful and useful. Find out why by watching the atmospheric pressure sublimation of ferrocene in this video.
+
+
+

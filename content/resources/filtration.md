@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** The easiest way to separate a liquid from a solid? Filtration! Learn how to effectively carry out gravity and vacuum filtrations in this video.
+
+
+

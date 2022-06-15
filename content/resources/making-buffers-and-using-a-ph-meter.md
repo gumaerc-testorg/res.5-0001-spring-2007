@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 **Topics covered:** Many chemistry and biochemistry procedures will require you to perform a reaction at a specific pH. This video demonstrates two methods of buffer preparation and proper use of the pH meter.
+
+
+

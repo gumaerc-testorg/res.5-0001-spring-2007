@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a43d194e3130881db43e7aff78c2c30d_auto_pipet.jpg
+file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a43d194e3130881db43e7aff78c2c30d_auto_pipet.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

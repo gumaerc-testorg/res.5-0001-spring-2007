@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/44a887943f356ed4b547c70ad53d8558_mn-u-7fRQv4.srt
+file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/44a887943f356ed4b547c70ad53d8558_mn-u-7fRQv4.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
