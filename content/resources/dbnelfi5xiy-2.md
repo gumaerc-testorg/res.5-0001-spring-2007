@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/f8b46cd971a7509fbb0dd902d0373d9d_dBNELFi5XiY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

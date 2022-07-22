@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 **Topics covered:** Extracting, Washing and Drying: It ain't over 'til it's over. Learn how to "work up" your reaction using a separatory funnel to perform a liquid-liquid extraction. This is one purification technique you don't want to miss!
-
-
 

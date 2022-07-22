@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 **Topics covered:** Thin-layer chromatography is the most commonly used analytical technique in many research labs. This video walks you through every step, from setting up a developing chamber to calculating Rf values.
-
-
 

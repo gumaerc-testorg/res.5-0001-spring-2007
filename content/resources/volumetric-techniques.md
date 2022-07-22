@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 **Topics covered:** Don't let inaccuracy hold you back in lab! This video introduces the proper methods for measuring precise volumes of liquid using pipets, burets, volumetric flasks, and syringes.
-
-
 

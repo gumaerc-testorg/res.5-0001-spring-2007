@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 **Topics covered:** Recrystallization takes patience, but it's worth it! This video walks you through the procedure, from solubility tests to cold filtration, with information on one-solvent and two-solvent recrystallizations.
-
-
 
