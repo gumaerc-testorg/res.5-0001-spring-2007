@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/56a4111265bb3eb97981283e20cbca57_titration.jpg
+file_size: 3665
 file_type: image/jpeg
 image_metadata:
   caption: ''
