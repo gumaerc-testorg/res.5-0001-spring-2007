@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/23a0ff3688c9baaf81daeccf2bcbf0d1_refluxing.jpg
+file_size: 3654
 file_type: image/jpeg
 image_metadata:
   caption: ''

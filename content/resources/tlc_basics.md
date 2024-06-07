@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a4fe9fc52a1b9f565e3ae636646b35d7_tlc_basics.jpg
+file_size: 3624
 file_type: image/jpeg
 image_metadata:
   caption: ''
