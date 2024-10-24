@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/f0e92f35b6bb6a041cef30b731325528_tlc_advanced.jpg
+file: /ol-ocw-studio-app/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/f0e92f35b6bb6a041cef30b731325528_tlc_advanced.jpg
 file_size: 3661
 file_type: image/jpeg
 image_metadata:
