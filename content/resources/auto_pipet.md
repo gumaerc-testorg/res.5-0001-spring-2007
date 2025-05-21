@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a43d194e3130881db43e7aff78c2c30d_auto_pipet.jpg
+file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a43d194e3130881db43e7aff78c2c30d_auto_pipet.jpg
 file_size: 3675
 file_type: image/jpeg
 image_metadata:
