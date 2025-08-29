@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/b563cef58ba0f67174ff578cbf84331e_filtration.jpg
+file: /ol-ocw-studio-app/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/b563cef58ba0f67174ff578cbf84331e_filtration.jpg
 file_size: 3673
 file_type: image/jpeg
 image_metadata:
