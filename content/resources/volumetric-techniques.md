@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '23913508'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -16,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Volumetric Techniques '
+title: Volumetric Techniques
 uid: b08878a3-824c-08e0-d903-3109ba916292
 video_files:
   archive_url: http://www.archive.org/download/MITRES.5.0001/VolumetricTechniques_MitDigitalLabTechniquesManual.mp4
@@ -26,6 +32,4 @@ video_files:
 video_metadata:
   youtube_id: 8djXBVSrDRw
 ---
-
 **Topics covered:** Don't let inaccuracy hold you back in lab! This video introduces the proper methods for measuring precise volumes of liquid using pipets, burets, volumetric flasks, and syringes.
-
